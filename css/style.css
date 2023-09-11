@@ -1,0 +1,23 @@
+body{
+    background-color: #E0F2F1;
+display: flex;
+justify-content: center;
+
+
+}
+
+button{
+    margin: 3px;
+}
+
+button:hover{
+    background-color: yellow;
+}
+
+#Calculadora{
+    background-color: aquamarine;
+    padding: 15px;
+    border: solid 1px black;
+    margin: 50px;
+    border-radius: 5px 15px 5px 15px;
+}
